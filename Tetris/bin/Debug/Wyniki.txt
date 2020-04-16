@@ -1,0 +1,14 @@
+Caell: 1200
+Caekk: 300
+KaKa: 4000
+Sasds: 10000
+Player1: 0
+Player3: 0
+Player4: 0
+Player5: 0
+Player6: 0
+Player7: 0
+sss: 0
+Saska: 100
+Adam: 18500
+sssss: 1200
